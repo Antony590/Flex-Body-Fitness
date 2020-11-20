@@ -1,0 +1,135 @@
+body{
+    background-color:#29499B;
+    background-image:center ;
+    background-position: center;
+    border-image-outset: initial;
+    background-origin: border-box;
+}
+.first{
+    float:center;
+    padding-left:2px;
+    width:1260px;
+}
+.nav>a{
+    text-align:left;
+    color:black;
+    background-color: blanchedalmond;
+    display: inline-flexbox;
+    position: relative;
+    right:0px;
+    left:0;
+    height:800px;
+}
+h1{
+    text-align:center;
+    text-overflow: inherit;
+    position: relative;
+}
+h2{
+    text-align:center;
+}
+#Services > img{
+    float:bottom-left;
+    height:120px;
+    width:250px;
+}
+#Services > p{
+    text-align:left;
+    padding-top:4px;
+    width:150px;
+    text-orientation: sideways-left;
+    position:right;
+    display:flex;
+}
+div> .Crossfit>img{
+    float:right;
+    
+    padding-bottom:90px;
+    width:250px;
+    height:120px;
+}
+.Crossfit>p>h3{
+text-align:left;
+padding-top:20px;
+}
+#Yoga > img{
+    float:left;
+    height:120px;
+    width:250px;
+    padding-top:110px;
+}
+.Yoga{
+    text-align:left;
+    position:right;
+    bottom:0px;
+    padding:2px;
+    padding-top: 100px;
+    max-resolution: top 2px; ;
+    margin-top:20px ;
+}
+.Outdoor{
+    padding:2px;
+    position:absolute;
+    display: flexbox;
+}
+.Outdoor > h3{
+    padding-top:50px;
+}
+.Outdoor > img{
+    float:right;
+    width:250px;
+    height:120px;
+}
+
+footer{
+    background-color:grey;
+    text-align:center;
+    font-style: italic;
+    height:30px;
+}
+#Team > img{
+    width:350px;
+    height:300px;
+}
+#Team > nav > ul{
+    background-color:#29499B;
+}
+#Antony > nav >ul{
+    background-color:#29499B;
+    padding-top:2px;
+    position:center;
+}
+#Antony > img{
+    width:350px;
+    height:300x;
+    float:top-right;
+    padding-bottom:10px;
+}
+#Junior{
+    background-color:#29499B;
+}
+#Junior > p{
+    text-align:center;
+    padding:90px;
+    padding-right:90px;
+}
+#Contacts{
+    background-color:grey;
+    color:grey;
+}
+#nav{
+    position:center;
+    background-color:grey;
+    padding-left:100%px;
+    text-align:center;
+}
+#nav > h2 > ul>li{
+    position:center;
+    padding:800px;
+}
+#nav h5{
+    background-color:red;
+    padding:-20px;
+    display:inline-block;
+    font-size:30px;
+}
